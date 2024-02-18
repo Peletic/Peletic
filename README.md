@@ -2,4 +2,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peletic)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peletic&theme=tokyonight)
