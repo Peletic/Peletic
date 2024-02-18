@@ -3,4 +3,4 @@
 # 👋 I'm Peletic, a 16 y/o highschool student. 
 ### Not quite sure what I like to code but I hope to figure that out this year!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peletic&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peletic&theme=tokyonight&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peletic&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peletic&theme=tokyonight)
