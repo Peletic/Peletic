@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Peletic) ![](https://img.shields.io/github/followers/:Peletic)
+![](https://komarev.com/ghpvc/?username=Peletic) ![](https://img.shields.io/github/followers/Peletic)
 
 
 
