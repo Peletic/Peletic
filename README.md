@@ -3,4 +3,4 @@
 # 👋 I'm Peletic, a highschool junior. 
 ### I love learning good coding practices and not using them!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peletic&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peletic&theme=tokyonight)
+![Peletic's GitHub stats](https://readme-stats-tau-swart.vercel.app/api?username=peletic&theme=tokyonight&include_all_commits=true) ![Top Langs](https://readme-stats-tau-swart.vercel.app/api/top-langs/?username=Peletic&theme=tokyonight)
